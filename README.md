@@ -1,4 +1,4 @@
-# MernBlog Projesi
+# MernNotDefteri Projesi
 
 Bu proje, MERN STACK teknolojisiyle geliştirilen "IRKI Not Defteri" adlı bir not defteri sitesidir. 
 Projede not alınabilmekte, notlara güncelleme yapılabilmekte ve notlar silinebilmektedir.
