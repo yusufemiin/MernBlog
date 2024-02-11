@@ -1,19 +1,18 @@
-# TravelTrip Projesi
+# MernBlog Projesi
 
-Bu proje, ASP.NET MVC 5 kullanılarak geliştirilen "Easy-Trip" adlı bir seyahat kişisel Blog sitesidir. Projedeki kullanılan fotoğraflar yazılar vb. birçoğu veritabanından çekilmektedir.
-Projede yorum yapılabilmekte ve yapılan yorumlar admin panelinde listelenmektedir. Yorumlar ve Bloglar düzenlenebilir ve silinebilmektedir.
-Üç + Bir(ana) toplam Dört farklı Template kullanılmıştır.
-proje içerisindeki klasörlerde mevcuttur.
+Bu proje, MERN STACK teknolojisiyle geliştirilen "IRKI Not Defteri" adlı bir not defteri sitesidir. 
+Projede not alınabilmekte, notlara güncelleme yapılabilmekte ve notlar silinebilmektedir.
+Ama bu özelliklerden güncelleme ve silme özelliği sadece backendde mevcuttur, frontendi geliştirici arkadaşlar kendileri denesinler diye onların yorumuna bırakılmıştır.
 
 ## Kullanılan Teknolojiler
 
 Projede kullanılan başlıca teknolojiler şunlardır:
 
-- **ASP.NET MVC**: Web uygulamasının temel yapısı için kullanılmıştır.
-- **Entity Framework**: Veritabanı işlemleri için kullanılmıştır.
+- **React**: Web uygulamamızın kullanıcı arayüzü için kullanılan bileşen tabanlı bir JavaScript kütüphanesidir.
+- **Express**: Sunucu tarafı mantığını yönetmek için kullanılan hızlı, esnek ve minimalist bir Node.js web uygulama çerçevesidir.
 - **HTML, CSS ve JavaScript**: Kullanıcı arayüzünün tasarımı ve etkileşimi için kullanılmıştır.
-- **Bootstrap**: Arayüzün daha çekici ve duyarlı hale getirilmesi için kullanılmıştır.
-- **SQL Server (Microsoft SQL Server Management Studio)**: Verilerin saklanması için kullanılmıştır.
+- **Node.js**: Sunucu tarafında JavaScript çalıştırmak için kullanılan bir çalışma zamanı ortamıdır.
+- **MongoDB**: JSON benzeri belgelere dayalı bir NoSQL veritabanı sistemi olan MongoDB, verileri saklamak için kullanılır.
 
 ## Proje Görünümü
 
@@ -22,8 +21,8 @@ Projede kullanılan başlıca teknolojiler şunlardır:
 
 ## Hesaplarım
 
-Github [click](https://github.com/cetinyazici) !
+Github [click](https://github.com/yusufemiin) !
 
-LinkedIn [click](https://www.linkedin.com/in/cetinyazici/) !
+LinkedIn [click](https://www.linkedin.com/in/yusufeminırkı/) !
 
-Patika.dev [click](https://app.patika.dev/yazilimyazici) !
+
