@@ -17,7 +17,7 @@ Projede kullanılan başlıca teknolojiler şunlardır:
 
 ## Proje Görünümü
 
-![.](TEMEL-MERN-APP/foto/mern.jpg)
+![.](/foto/mern.jpg)
 
 
 ## Hesaplarım
